@@ -3,7 +3,7 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/hemant-j-85518a195/">
+   <a href="https://www.linkedin.com/in/tristan-laroubine/">
      <img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true">
   </a>&nbsp;&nbsp;
 </p>
