@@ -8,7 +8,7 @@
   </a>&nbsp;&nbsp;
 </p>
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨🏻‍💻 Tristan Laroubine | 💻 Full stack IT Engineer | 🛸 France <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👨🏻‍💻 Tristan Laroubine | 💻 Software Architect, IT Engineer | 🛸 France <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 </div>
 
 ## 📊 Github stats
